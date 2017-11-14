@@ -9,7 +9,8 @@ public class Dates
 {
     private final static Scanner SCAN = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         int iDaysInMonth, iDay, iMonth, iYear;
         boolean bDayValid, bMonthValid, bYearValid, bLeapYear;
 
